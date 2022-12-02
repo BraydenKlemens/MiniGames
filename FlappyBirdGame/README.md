@@ -2,7 +2,7 @@
 
 A remake of the Flappy Bird mobile game, made using Java and the LibGdx framework.
 
-#Build Instructions
+# Build Instructions
 - Import as project by opening the build.gradle in IntelliJ
 - Configure a Desktop Launcher (Example configuration below)
 - Simply click the run/debugger to launch the app
