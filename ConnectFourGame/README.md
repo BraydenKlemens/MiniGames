@@ -3,7 +3,7 @@
 A virtual version of Connect 4 made using Java and the LibGdx framework.
 
 #Build Instructions
-- Open / import as a project in Intellij or Eclipse
+- Import as project by opening the build.gradle in IntelliJ
 - Configure a Desktop Launcher (Example configuration below)
 - Simply click the run/debugger to launch the app
 - MacOS users can also download the game from my website at braydenklemens.github.io
